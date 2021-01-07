@@ -1,8 +1,12 @@
 # Discord Stock Bot -----Stocky
-  This Discord Stock Bot is designed to give users updates on the stocks they wish to see.
+  ## DESCRIPTION
+    1. This Discord Stock Bot is designed to give users updates on the stocks they wish to see.
+    2. Used 
+      a. Python (Jupyter Notebook)
+      b. Web-Scraping 
+      c. Discord API
   
-## DESCRIPTION
-### This is a Custom Stock Bot created by myself which can lot of things
+### This is a Custom Stock Bot can do lot of things like
     1. Can give you current OHLC Price of stock symbol/ticker you enter
     2. Gives you list of Top 25 Gainers in the National Stock Market.
     3. Can give you a 6 months history plot of a stock symbol/ticker you enter
