@@ -11,6 +11,7 @@ from pandas_datareader import data as pdr
 import datetime as dt
 import yfinance as yf
 import pandas as pd
+import nothing as nt
 import numpy as np
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
